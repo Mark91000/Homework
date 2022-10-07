@@ -3,10 +3,7 @@ package game.hero;
 public class Elf4 {
 
     private int id;
-
-
     private String nickName;
-
 
     public Elf4() {
     }
